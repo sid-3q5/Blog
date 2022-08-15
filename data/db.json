@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Non-Radiant",
+      "body": "You could never hope to match a Radiante!\nBut I will do what is necessary to be done.",
+      "author": "Omen",
+      "id": 1
+    },
+    {
+      "title": "Radiant",
+      "body": "We are finally free to use our power.\nWe will no let them capture radiante from enivronment.",
+      "author": "Reyna",
+      "id": 2
+    },
+    {
+      "title": "Healer & Killer",
+      "body": "I will not let you die here.\nYou are still need to this country!!",
+      "author": "Sage",
+      "id": 3
+    },
+    {
+      "title": "Revealer",
+      "body": "I know exactly where you are!!\nI am not gonna let you hide, kid!!\nYou are Welcome ..... to die.",
+      "author": "Cypher",
+      "id": 4
+    },
+    {
+      "title": "Find me",
+      "body": "Find me, If you can. I will go in another dimension to destroy you and can't even touch or see me but you can feel me everywhere.\nFear me!!!",
+      "author": "Yoru",
+      "id": 5
+    }
+  ]
+}
